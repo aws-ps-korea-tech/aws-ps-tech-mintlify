@@ -1,0 +1,312 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "AWS PS Tech",
+  "colors": {
+    "primary": "#FF9900",
+    "light": "#FFAC31",
+    "dark": "#232F3E"
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Docs",
+        "groups": [
+          {
+            "group": "AI Agent Memory on AWS",
+            "pages": [
+              "docs/ai-agent-memory-on-aws/index",
+              "docs/ai-agent-memory-on-aws/ai-gbrain-aws",
+              {
+                "group": "_assets",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "Amazon Bio Discovery로 AI 항체 설계 시작하기",
+            "pages": [
+              "docs/amazon-bio-discovery-ai/index",
+              "docs/amazon-bio-discovery-ai/amazon-bio-discovery-ai",
+              "docs/amazon-bio-discovery-ai/getting-started-with-ai-antibody-design-on-amazon-bio-discovery-a-guide-for-life-science-researchers",
+              {
+                "group": "_assets",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "대학 고객을 위한 AWS 길라잡이",
+            "pages": [
+              "docs/aws/index",
+              "docs/aws/aws",
+              "docs/aws/otp",
+              "docs/aws/쉽게-따라하는-연구실-계정-관리",
+              "docs/aws/유용한-링크들-모음",
+              {
+                "group": "_assets",
+                "pages": []
+              },
+              {
+                "group": "연구자를 위한 AWS 학습 기초",
+                "pages": [
+                  "docs/aws/aws-2/index",
+                  "docs/aws/aws-2/ami-gwl",
+                  "docs/aws/aws-2/ami",
+                  "docs/aws/aws-2/aws-cli",
+                  "docs/aws/aws-2/cloud9",
+                  "docs/aws/aws-2/ec2-ami",
+                  "docs/aws/aws-2/ec2",
+                  "docs/aws/aws-2/hail-on-ec2",
+                  "docs/aws/aws-2/기본-분석-수행하기-옵션",
+                  "docs/aws/aws-2/데이터-다운로드-실습",
+                  "docs/aws/aws-2/리눅스-머신-실행",
+                  "docs/aws/aws-2/워크샵-시작-전-준비사항",
+                  "docs/aws/aws-2/저장-장치-추가하기",
+                  {
+                    "group": "_assets",
+                    "pages": []
+                  }
+                ]
+              },
+              {
+                "group": "연구자를 위한 AWS 서비스",
+                "pages": [
+                  "docs/aws/aws-h9c/index",
+                  "docs/aws/aws-h9c/amazon-lightsail-for-research",
+                  "docs/aws/aws-h9c/research-and-engineering-studio-on-aws",
+                  {
+                    "group": "_assets",
+                    "pages": []
+                  }
+                ]
+              },
+              {
+                "group": "EC2 따라잡기",
+                "pages": [
+                  "docs/aws/ec2/index",
+                  "docs/aws/ec2/ec2-bck",
+                  "docs/aws/ec2/rstudio",
+                  {
+                    "group": "_assets",
+                    "pages": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "group": "AWS Batch",
+            "pages": [
+              "docs/aws-batch/index",
+              "docs/aws-batch/tagging-w-nextflow",
+              "docs/aws-batch/troubleshooting-for-aws-batch-nextflow",
+              {
+                "group": "_assets",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "AWS BLAST Performance Testing",
+            "pages": [
+              "docs/aws-blast-performance-testing/index",
+              "docs/aws-blast-performance-testing/cost-analysis",
+              "docs/aws-blast-performance-testing/ebs-snapshot",
+              "docs/aws-blast-performance-testing/ebs",
+              "docs/aws-blast-performance-testing/efs-vs-fsx-for-lustre",
+              "docs/aws-blast-performance-testing/아키텍처-개요"
+            ]
+          },
+          {
+            "group": "Data Transfer",
+            "pages": [
+              "docs/data-transfer/index"
+            ]
+          },
+          {
+            "group": "Decision Models on AWS",
+            "pages": [
+              "docs/decision-models-on-aws/index",
+              "docs/decision-models-on-aws/draft-amazon-bedrock-ai",
+              "docs/decision-models-on-aws/draft-system-one-aws-vs-amazon-bedrock-claude-55"
+            ]
+          },
+          {
+            "group": "[DRAFT] gbrain 검색 파이프라인 이해하기",
+            "pages": [
+              "docs/draft-gbrain/index",
+              "docs/draft-gbrain/draft-gbrain"
+            ]
+          },
+          {
+            "group": "eGovFramework on AWS",
+            "pages": [
+              "docs/egovframework-on-aws/index"
+            ]
+          },
+          {
+            "group": "FSx for Lustre",
+            "pages": [
+              "docs/fsx-for-lustre/index",
+              {
+                "group": "모니터링",
+                "pages": [
+                  "docs/fsx-for-lustre/6f3ef/index"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "Genome Data Delivery Portal on AWS",
+            "pages": [
+              "docs/genome-data-delivery-portal-on-aws/index",
+              "docs/genome-data-delivery-portal-on-aws/storage-browser-for-s3-cloudfront-gb"
+            ]
+          },
+          {
+            "group": "NCBI BLAST on AWS",
+            "pages": [
+              "docs/ncbi-blast-on-aws/index",
+              "docs/ncbi-blast-on-aws/blast-aws-5",
+              "docs/ncbi-blast-on-aws/elasticblast-aws-ncbi-blast",
+              {
+                "group": "_assets",
+                "pages": []
+              }
+            ]
+          },
+          {
+            "group": "Omics on AWS",
+            "pages": [
+              "docs/omics-on-aws/index",
+              "docs/omics-on-aws/amazon-genomics-cli-vdj",
+              "docs/omics-on-aws/aws-healthomics-cicd",
+              "docs/omics-on-aws/aws-healthomics-ksh",
+              "docs/omics-on-aws/how-task-concurrency-limits-increase-storage-costs-in-aws-healthomics-workflow-runs",
+              {
+                "group": "_assets",
+                "pages": []
+              },
+              {
+                "group": "AlphaGenome · AlphaMissense on AWS — 블로그 시리즈 초안 (비공개)",
+                "pages": [
+                  "docs/omics-on-aws/alphagenome-alphamissense-on-aws/index",
+                  "docs/omics-on-aws/alphagenome-alphamissense-on-aws/1-alphamissense-7100-missense-amazon-athena",
+                  "docs/omics-on-aws/alphagenome-alphamissense-on-aws/2-alphagenome-aws-gpu-sagemaker-api",
+                  {
+                    "group": "_assets",
+                    "pages": []
+                  }
+                ]
+              },
+              {
+                "group": "AWS HealthOmics",
+                "pages": [
+                  "docs/omics-on-aws/aws-healthomics/index",
+                  "docs/omics-on-aws/aws-healthomics/aws-healthomics-annotation",
+                  "docs/omics-on-aws/aws-healthomics/aws-healthomics-fastq-to-vcf-annotation",
+                  "docs/omics-on-aws/aws-healthomics/aws-healthomics-nf-coresarek-390",
+                  "docs/omics-on-aws/aws-healthomics/aws-healthomics-run-analyzer",
+                  "docs/omics-on-aws/aws-healthomics/aws-healthomics-storage",
+                  "docs/omics-on-aws/aws-healthomics/aws-healthomics-troubleshooting",
+                  "docs/omics-on-aws/aws-healthomics/aws-healthomics",
+                  "docs/omics-on-aws/aws-healthomics/call-caching",
+                  "docs/omics-on-aws/aws-healthomics/lessons-learned-warp-exomegermlinesinglesample-aws-healthomics",
+                  "docs/omics-on-aws/aws-healthomics/nf-core-rnaseq",
+                  "docs/omics-on-aws/aws-healthomics/nf-core-scrnaseq",
+                  "docs/omics-on-aws/aws-healthomics/nf-core-spatialvi",
+                  "docs/omics-on-aws/aws-healthomics/run-analzyer",
+                  "docs/omics-on-aws/aws-healthomics/running-nf-coresarek-390-on-aws-healthomics",
+                  "docs/omics-on-aws/aws-healthomics/vpc-connected-workflows-accessing-the-internet-and-cross-region-s3-from-workflows",
+                  "docs/omics-on-aws/aws-healthomics/vpc-connected-workflows-s3",
+                  "docs/omics-on-aws/aws-healthomics/wdl-hifi-human-wgs-wdl",
+                  "docs/omics-on-aws/aws-healthomics/몇-가지-기능과-알아둘-것들",
+                  {
+                    "group": "_assets",
+                    "pages": []
+                  }
+                ]
+              },
+              {
+                "group": "Hail on AWS",
+                "pages": [
+                  "docs/omics-on-aws/hail-on-aws/index",
+                  "docs/omics-on-aws/hail-on-aws/amazon-emr-on-ec2",
+                  "docs/omics-on-aws/hail-on-aws/aws-glue",
+                  "docs/omics-on-aws/hail-on-aws/hail-with-amazon-emr-notebook",
+                  "docs/omics-on-aws/hail-on-aws/quickstart-hail-english",
+                  "docs/omics-on-aws/hail-on-aws/quickstart-hail-korean",
+                  {
+                    "group": "_assets",
+                    "pages": []
+                  }
+                ]
+              },
+              {
+                "group": "HPP Production Workflows",
+                "pages": [
+                  "docs/omics-on-aws/hpp-production-workflows/index",
+                  "docs/omics-on-aws/hpp-production-workflows/aws",
+                  "docs/omics-on-aws/hpp-production-workflows/executive-summary",
+                  "docs/omics-on-aws/hpp-production-workflows/faq",
+                  "docs/omics-on-aws/hpp-production-workflows/iam",
+                  "docs/omics-on-aws/hpp-production-workflows/tco",
+                  "docs/omics-on-aws/hpp-production-workflows/구현-로드맵-및-마이그레이션-전략",
+                  "docs/omics-on-aws/hpp-production-workflows/도전과제-및-해결방안",
+                  "docs/omics-on-aws/hpp-production-workflows/모니터링-및-운영-전략",
+                  "docs/omics-on-aws/hpp-production-workflows/모범-사례-및-권장사항",
+                  "docs/omics-on-aws/hpp-production-workflows/스토리지-전략-및-성능-최적화",
+                  "docs/omics-on-aws/hpp-production-workflows/실전-트러블슈팅-가이드",
+                  "docs/omics-on-aws/hpp-production-workflows/프로젝트-분석-및-기술-스택"
+                ]
+              },
+              {
+                "group": "Multi-modal analysis",
+                "pages": [
+                  "docs/omics-on-aws/multi-modal-analysis/index",
+                  "docs/omics-on-aws/multi-modal-analysis/store-multimodal-data-with-purpose-built-health-ai-services",
+                  "docs/omics-on-aws/multi-modal-analysis/소개-및-실습-준비",
+                  {
+                    "group": "_assets",
+                    "pages": []
+                  }
+                ]
+              },
+              {
+                "group": "Nextflow",
+                "pages": [
+                  "docs/omics-on-aws/nextflow/index",
+                  "docs/omics-on-aws/nextflow/example-code"
+                ]
+              }
+            ]
+          },
+          {
+            "group": "s3",
+            "pages": [
+              {
+                "group": "Amazon S3",
+                "pages": [
+                  "docs/s3/amazon-s3/index",
+                  "docs/s3/amazon-s3/s3-select",
+                  "docs/s3/amazon-s3/예제-데이터",
+                  "docs/s3/amazon-s3/추천-링크",
+                  {
+                    "group": "_assets",
+                    "pages": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {
+      "github": "https://github.com/aws-ps-korea-tech"
+    }
+  }
+}
