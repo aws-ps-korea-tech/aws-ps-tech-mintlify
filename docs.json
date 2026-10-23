@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "AWS PS Tech",
+  "name": "AWS Korea Public Sector SA Team",
   "colors": {
-    "primary": "#FF9900",
-    "light": "#FFAC31",
-    "dark": "#232F3E"
+    "primary": "#206ea7",
+    "light": "#429fe3",
+    "dark": "#195785"
   },
   "navigation": {
     "tabs": [
@@ -253,6 +253,35 @@
   "footer": {
     "socials": {
       "github": "https://github.com/aws-ps-korea-tech"
+    },
+    "links": [
+      {
+        "header": "정책",
+        "items": [
+          {
+            "label": "Privacy Policy",
+            "href": "https://aws.amazon.com/ko/privacy/"
+          }
+        ]
+      }
+    ]
+  },
+  "logo": {
+    "light": "/logo/aws-light.png",
+    "dark": "/logo/aws-dark.png",
+    "href": "/"
+  },
+  "favicon": "/favicon.png",
+  "fonts": {
+    "body": {
+      "family": "Amazon Ember",
+      "source": "https://m.media-amazon.com/images/S/sash/pDxWAF1pBB0dzGB.woff2",
+      "format": "woff2"
     }
+  },
+  "banner": {
+    "content": "⚠️ 이 사이트의 게시물은 최신 정보를 반영하지 않을 수 있으며, **AWS 공식 콘텐츠가 아닙니다.** 최신 정보는 [AWS 공식 문서](https://docs.aws.amazon.com)를 참고하세요.",
+    "type": "warning",
+    "dismissible": false
   }
 }
