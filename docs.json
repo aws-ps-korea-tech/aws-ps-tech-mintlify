@@ -283,5 +283,542 @@
     "content": "⚠️ 이 사이트의 게시물은 최신 정보를 반영하지 않을 수 있으며, **AWS 공식 콘텐츠가 아닙니다.** 최신 정보는 [AWS 공식 문서](https://docs.aws.amazon.com)를 참고하세요.",
     "type": "warning",
     "dismissible": false
-  }
+  },
+  "redirects": [
+    {
+      "source": "/books/ai-agent-memory-on-aws",
+      "destination": "/docs/ai-agent-memory-on-aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/ai-agent-memory-on-aws/page/ai-gbrain-aws",
+      "destination": "/docs/ai-agent-memory-on-aws/ai-gbrain-aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/amazon-bio-discovery-ai",
+      "destination": "/docs/amazon-bio-discovery-ai",
+      "permanent": true
+    },
+    {
+      "source": "/books/amazon-bio-discovery-ai/page/amazon-bio-discovery-ai",
+      "destination": "/docs/amazon-bio-discovery-ai/amazon-bio-discovery-ai",
+      "permanent": true
+    },
+    {
+      "source": "/books/amazon-bio-discovery-ai/page/getting-started-with-ai-antibody-design-on-amazon-bio-discovery-a-guide-for-life-science-researchers",
+      "destination": "/docs/amazon-bio-discovery-ai/getting-started-with-ai-antibody-design-on-amazon-bio-discovery-a-guide-for-life-science-researchers",
+      "permanent": true
+    },
+    {
+      "source": "/books/amazon-s3",
+      "destination": "/docs/s3/amazon-s3",
+      "permanent": true
+    },
+    {
+      "source": "/books/amazon-s3/page/01161",
+      "destination": "/docs/s3/amazon-s3/예제-데이터",
+      "permanent": true
+    },
+    {
+      "source": "/books/amazon-s3/page/58a2f",
+      "destination": "/docs/s3/amazon-s3/추천-링크",
+      "permanent": true
+    },
+    {
+      "source": "/books/amazon-s3/page/s3-select",
+      "destination": "/docs/s3/amazon-s3/s3-select",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws",
+      "destination": "/docs/aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws-batch",
+      "destination": "/docs/aws-batch",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws-batch/page/tagging-w-nextflow",
+      "destination": "/docs/aws-batch/tagging-w-nextflow",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws-batch/page/troubleshooting-for-aws-batch-nextflow",
+      "destination": "/docs/aws-batch/troubleshooting-for-aws-batch-nextflow",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws-blast-performance-testing",
+      "destination": "/docs/aws-blast-performance-testing",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws-blast-performance-testing/page/26657",
+      "destination": "/docs/aws-blast-performance-testing/아키텍처-개요",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws-blast-performance-testing/page/cost-analysis",
+      "destination": "/docs/aws-blast-performance-testing/cost-analysis",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws-blast-performance-testing/page/ebs",
+      "destination": "/docs/aws-blast-performance-testing/ebs",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws-blast-performance-testing/page/ebs-snapshot",
+      "destination": "/docs/aws-blast-performance-testing/ebs-snapshot",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws-blast-performance-testing/page/efs-vs-fsx-for-lustre",
+      "destination": "/docs/aws-blast-performance-testing/efs-vs-fsx-for-lustre",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/chapter/aws",
+      "destination": "/docs/aws/aws-2",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/chapter/aws-H9C",
+      "destination": "/docs/aws/aws-h9c",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/chapter/ec2",
+      "destination": "/docs/aws/ec2",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/28f0b",
+      "destination": "/docs/aws/aws-2/저장-장치-추가하기",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/40008",
+      "destination": "/docs/aws/aws-2/데이터-다운로드-실습",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/812b4",
+      "destination": "/docs/aws/쉽게-따라하는-연구실-계정-관리",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/amazon-lightsail-for-research",
+      "destination": "/docs/aws/aws-h9c/amazon-lightsail-for-research",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/ami",
+      "destination": "/docs/aws/aws-2/ami",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/ami-gwl",
+      "destination": "/docs/aws/aws-2/ami-gwl",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/aws",
+      "destination": "/docs/aws/aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/aws-cli",
+      "destination": "/docs/aws/aws-2/aws-cli",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/cloud9",
+      "destination": "/docs/aws/aws-2/cloud9",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/d2dde",
+      "destination": "/docs/aws/aws-2/워크샵-시작-전-준비사항",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/d61e4",
+      "destination": "/docs/aws/aws-2/기본-분석-수행하기-옵션",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/d82c8",
+      "destination": "/docs/aws/유용한-링크들-모음",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/dc6a6",
+      "destination": "/docs/aws/aws-2/리눅스-머신-실행",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/ec2",
+      "destination": "/docs/aws/aws-2/ec2",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/ec2-BcK",
+      "destination": "/docs/aws/ec2/ec2-bck",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/ec2-ami",
+      "destination": "/docs/aws/aws-2/ec2-ami",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/hail-on-ec2",
+      "destination": "/docs/aws/aws-2/hail-on-ec2",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/otp",
+      "destination": "/docs/aws/otp",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/research-and-engineering-studio-on-aws",
+      "destination": "/docs/aws/aws-h9c/research-and-engineering-studio-on-aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/aws/page/rstudio",
+      "destination": "/docs/aws/ec2/rstudio",
+      "permanent": true
+    },
+    {
+      "source": "/books/data-transfer",
+      "destination": "/docs/data-transfer",
+      "permanent": true
+    },
+    {
+      "source": "/books/decision-models-on-aws",
+      "destination": "/docs/decision-models-on-aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/decision-models-on-aws/page/draft-amazon-bedrock-ai",
+      "destination": "/docs/decision-models-on-aws/draft-amazon-bedrock-ai",
+      "permanent": true
+    },
+    {
+      "source": "/books/decision-models-on-aws/page/draft-system-one-aws-vs-amazon-bedrock-claude-55",
+      "destination": "/docs/decision-models-on-aws/draft-system-one-aws-vs-amazon-bedrock-claude-55",
+      "permanent": true
+    },
+    {
+      "source": "/books/draft-gbrain",
+      "destination": "/docs/draft-gbrain",
+      "permanent": true
+    },
+    {
+      "source": "/books/draft-gbrain/page/draft-gbrain",
+      "destination": "/docs/draft-gbrain/draft-gbrain",
+      "permanent": true
+    },
+    {
+      "source": "/books/egovframework-on-aws",
+      "destination": "/docs/egovframework-on-aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/fsx-for-lustre",
+      "destination": "/docs/fsx-for-lustre",
+      "permanent": true
+    },
+    {
+      "source": "/books/fsx-for-lustre/chapter/6f3ef",
+      "destination": "/docs/fsx-for-lustre/6f3ef",
+      "permanent": true
+    },
+    {
+      "source": "/books/genome-data-delivery-portal-on-aws",
+      "destination": "/docs/genome-data-delivery-portal-on-aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/genome-data-delivery-portal-on-aws/page/storage-browser-for-s3-cloudfront-gb",
+      "destination": "/docs/genome-data-delivery-portal-on-aws/storage-browser-for-s3-cloudfront-gb",
+      "permanent": true
+    },
+    {
+      "source": "/books/ncbi-blast-on-aws",
+      "destination": "/docs/ncbi-blast-on-aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/ncbi-blast-on-aws/page/blast-aws-5",
+      "destination": "/docs/ncbi-blast-on-aws/blast-aws-5",
+      "permanent": true
+    },
+    {
+      "source": "/books/ncbi-blast-on-aws/page/elasticblast-aws-ncbi-blast",
+      "destination": "/docs/ncbi-blast-on-aws/elasticblast-aws-ncbi-blast",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws",
+      "destination": "/docs/omics-on-aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/chapter/alphagenome-alphamissense-on-aws",
+      "destination": "/docs/omics-on-aws/alphagenome-alphamissense-on-aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/chapter/aws-healthomics",
+      "destination": "/docs/omics-on-aws/aws-healthomics",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/chapter/hail-on-aws",
+      "destination": "/docs/omics-on-aws/hail-on-aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/chapter/hpp-production-workflows",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/chapter/multi-modal-analysis",
+      "destination": "/docs/omics-on-aws/multi-modal-analysis",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/chapter/nextflow",
+      "destination": "/docs/omics-on-aws/nextflow",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/1-alphamissense-7100-missense-amazon-athena",
+      "destination": "/docs/omics-on-aws/alphagenome-alphamissense-on-aws/1-alphamissense-7100-missense-amazon-athena",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/2-alphagenome-aws-gpu-sagemaker-api",
+      "destination": "/docs/omics-on-aws/alphagenome-alphamissense-on-aws/2-alphagenome-aws-gpu-sagemaker-api",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/32bb9",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows/프로젝트-분석-및-기술-스택",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/36366",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows/구현-로드맵-및-마이그레이션-전략",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/45c48",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows/스토리지-전략-및-성능-최적화",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/65b9e",
+      "destination": "/docs/omics-on-aws/multi-modal-analysis/소개-및-실습-준비",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/8dd48",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows/모범-사례-및-권장사항",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/a597e",
+      "destination": "/docs/omics-on-aws/aws-healthomics/몇-가지-기능과-알아둘-것들",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/amazon-emr-on-ec2",
+      "destination": "/docs/omics-on-aws/hail-on-aws/amazon-emr-on-ec2",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/amazon-genomics-cli-vDj",
+      "destination": "/docs/omics-on-aws/amazon-genomics-cli-vdj",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/aws",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows/aws",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/aws-glue",
+      "destination": "/docs/omics-on-aws/hail-on-aws/aws-glue",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/aws-healthomics",
+      "destination": "/docs/omics-on-aws/aws-healthomics/aws-healthomics",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/aws-healthomics-Ksh",
+      "destination": "/docs/omics-on-aws/aws-healthomics-ksh",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/aws-healthomics-annotation",
+      "destination": "/docs/omics-on-aws/aws-healthomics/aws-healthomics-annotation",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/aws-healthomics-cicd",
+      "destination": "/docs/omics-on-aws/aws-healthomics-cicd",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/aws-healthomics-fastq-to-vcf-annotation",
+      "destination": "/docs/omics-on-aws/aws-healthomics/aws-healthomics-fastq-to-vcf-annotation",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/aws-healthomics-nf-coresarek-390",
+      "destination": "/docs/omics-on-aws/aws-healthomics/aws-healthomics-nf-coresarek-390",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/aws-healthomics-run-analyzer",
+      "destination": "/docs/omics-on-aws/aws-healthomics/aws-healthomics-run-analyzer",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/aws-healthomics-storage",
+      "destination": "/docs/omics-on-aws/aws-healthomics/aws-healthomics-storage",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/aws-healthomics-troubleshooting",
+      "destination": "/docs/omics-on-aws/aws-healthomics/aws-healthomics-troubleshooting",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/bf822",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows/실전-트러블슈팅-가이드",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/call-caching",
+      "destination": "/docs/omics-on-aws/aws-healthomics/call-caching",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/cfee3",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows/도전과제-및-해결방안",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/e7b24",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows/모니터링-및-운영-전략",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/example-code",
+      "destination": "/docs/omics-on-aws/nextflow/example-code",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/executive-summary",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows/executive-summary",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/faq",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows/faq",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/hail-with-amazon-emr-notebook",
+      "destination": "/docs/omics-on-aws/hail-on-aws/hail-with-amazon-emr-notebook",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/how-task-concurrency-limits-increase-storage-costs-in-aws-healthomics-workflow-runs",
+      "destination": "/docs/omics-on-aws/how-task-concurrency-limits-increase-storage-costs-in-aws-healthomics-workflow-runs",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/iam",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows/iam",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/lessons-learned-warp-exomegermlinesinglesample-aws-healthomics",
+      "destination": "/docs/omics-on-aws/aws-healthomics/lessons-learned-warp-exomegermlinesinglesample-aws-healthomics",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/nf-core-rnaseq",
+      "destination": "/docs/omics-on-aws/aws-healthomics/nf-core-rnaseq",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/nf-core-scrnaseq",
+      "destination": "/docs/omics-on-aws/aws-healthomics/nf-core-scrnaseq",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/nf-core-spatialvi",
+      "destination": "/docs/omics-on-aws/aws-healthomics/nf-core-spatialvi",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/quickstart-hail-english",
+      "destination": "/docs/omics-on-aws/hail-on-aws/quickstart-hail-english",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/quickstart-hail-korean",
+      "destination": "/docs/omics-on-aws/hail-on-aws/quickstart-hail-korean",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/run-analzyer",
+      "destination": "/docs/omics-on-aws/aws-healthomics/run-analzyer",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/running-nf-coresarek-390-on-aws-healthomics",
+      "destination": "/docs/omics-on-aws/aws-healthomics/running-nf-coresarek-390-on-aws-healthomics",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/store-multimodal-data-with-purpose-built-health-ai-services",
+      "destination": "/docs/omics-on-aws/multi-modal-analysis/store-multimodal-data-with-purpose-built-health-ai-services",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/tco",
+      "destination": "/docs/omics-on-aws/hpp-production-workflows/tco",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/vpc-connected-workflows-accessing-the-internet-and-cross-region-s3-from-workflows",
+      "destination": "/docs/omics-on-aws/aws-healthomics/vpc-connected-workflows-accessing-the-internet-and-cross-region-s3-from-workflows",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/vpc-connected-workflows-s3",
+      "destination": "/docs/omics-on-aws/aws-healthomics/vpc-connected-workflows-s3",
+      "permanent": true
+    },
+    {
+      "source": "/books/omics-on-aws/page/wdl-hifi-human-wgs-wdl",
+      "destination": "/docs/omics-on-aws/aws-healthomics/wdl-hifi-human-wgs-wdl",
+      "permanent": true
+    }
+  ]
 }
