@@ -1,4 +1,4 @@
-# AWS PS Tech Docs — Mintlify
+# AWS Korea Public Sector SA Team Docs — Mintlify
 
 BookStack(`aws-ps-tech.kr`) 마이그레이션 비교용. Mintlify(가장 노션스러운 UI, SaaS).
 
