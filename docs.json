@@ -87,6 +87,13 @@
                 ]
               }
             ]
+          },
+          {
+            "group": "GxP on AWS",
+            "pages": [
+              "docs/gxp-on-aws/index",
+              "docs/gxp-on-aws/gxp-on-aws"
+            ]
           }
         ]
       },
@@ -191,7 +198,8 @@
             "pages": [
               "docs/amazon-bio-discovery-ai/index",
               "docs/amazon-bio-discovery-ai/amazon-bio-discovery-ai",
-              "docs/amazon-bio-discovery-ai/getting-started-with-ai-antibody-design-on-amazon-bio-discovery-a-guide-for-life-science-researchers"
+              "docs/amazon-bio-discovery-ai/getting-started-with-ai-antibody-design-on-amazon-bio-discovery-a-guide-for-life-science-researchers",
+              "docs/amazon-bio-discovery-ai/ai-her2trastuzumab-amazon-bio-discovery-20"
             ]
           }
         ]
